@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=6ydFDwv-n8w
 ### Microsoft/OpenAI Timeline
 Image of the Microsoft/OpenAI timeline.
 
-(put image here)
+!["Microsoft/OpenAI Timeline"](MicrosoftOpenAITimeline.png)
 
 ### History of .NET with Richard Campbell
 Fantastic session on the history of .NET by Richard Campbell
